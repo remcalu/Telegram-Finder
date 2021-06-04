@@ -1,0 +1,40 @@
+{
+  "refresh_delay": "10",
+  "autoload": "yes",
+  "saved": [{
+      "name": "CryptoMoonShots",
+      "static_link": "https://old.reddit.com/r/CryptoMoonShots/new/",
+      "static_users": "1",
+      "texts": "none"
+    },{
+      "name": "CryptoCurrency",
+      "static_link": "https://old.reddit.com/r/CryptoCurrencies/new/",
+      "static_users": "1",
+      "texts": "none"
+    },{
+      "name": "Altcoin",
+      "static_link": "https://old.reddit.com/r/altcoin/new/",
+      "static_users": "1",
+      "texts": "none"
+    },{
+      "name": "SatoshiStreetBets",
+      "static_link": "https://old.reddit.com/r/SatoshiStreetBets/new/",
+      "static_users": "1",
+      "texts": "none"
+    },{
+      "name": "AllCryptoBets",
+      "static_link": "https://old.reddit.com/r/AllCryptoBets/new/",
+      "static_users": "1",
+      "texts": "none"
+    },{
+      "name": "CryptoCurrencyTrading",
+      "static_link": "https://old.reddit.com/r/CryptoCurrencyTrading/new/",
+      "static_users": "1",
+      "texts": "none"
+    },{
+      "name": "shitcoinmoonshots",
+      "static_link": "https://old.reddit.com/r/shitcoinmoonshots/new/",
+      "static_users": "1",
+      "texts": "none"
+    }]
+}
